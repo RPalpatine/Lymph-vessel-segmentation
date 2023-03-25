@@ -1,2 +1,4 @@
-Performance of diffrenet architectures and backbones for segmentation of lymph vessels on scanned whole slide images.
+AI for lymph vessel segmentation on whole slide images.
+
+Performance of different architectures and backbones:
 
